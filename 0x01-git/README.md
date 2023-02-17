@@ -1,1 +1,1 @@
-This is my first Github directory
+Updated README fileThis is my first Github directory
